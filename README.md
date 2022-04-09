@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sel1m0
+- 👋 Hi, I’m @sel1m
 - 👀 I’m interested in frontend-dev
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning python, Java, JS, TS, React.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
