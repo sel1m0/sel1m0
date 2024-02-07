@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sel1m
-- 👀 I’m interested in fullstack developing
-- 🌱 I’m currently learning Python, Java, JS, TS, React, PostgreSQL.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in frontend developing
+- 🌱 I’m currently learning JS, React and SCSS.
+- 💞️ I’m looking to collaborate on any interestin project.
 - 📫 How to reach me linkedin.com/in/selim-dalkilic-174495231
 
 <!---
